@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Impact Analysis</string>
+    <string name="show_faqs">showFAQs</string>
+    <string name="show_faq_section">showFAQSection</string>
+    <string name="show_single_faq">showSingleFAQ</string>
+    <string name="show_conversation">showConversation (with and without an open Conversation)</string>
+    <string name="show_inbox">showInbox (Campaigns)</string>
+    <string name="show_message">showMessage (Campaigns)</string>
 </resources>
